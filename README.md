@@ -26,6 +26,8 @@ Este repositório contém as informações necessárias para a participação no
 
 ## **Assunto: Proposta de Arquitetura de Prova de Conceito para Resolução do Trilema do Drex com Edge Swarm Computing**
 
+    https://scoobiii.github.io/edge-swarm-computing/
+
 ### **1. A Dor Crítica do Drex: O Bloqueio do Trilema na Prática**
 
 A Fase 1 do piloto do Drex não apenas validou o potencial da plataforma, mas, de forma crucial, **cristalizou a dor do Trilema das CBDCs**. O problema não é teórico; é um bloqueio prático que impede a escalabilidade nacional.
