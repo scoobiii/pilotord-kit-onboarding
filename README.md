@@ -18,7 +18,7 @@ Este repositório contém as informações necessárias para a participação no
 
 **PARA:** Corpo Técnico e Estratégico, Banco Central do Brasil (Bacen)  
 **DE:** GOS3 - Gang of Seven Senior DevOps Team, a serviço da MEX energIA  
-**RESPONSÁVEL TÉCNICO:** José Soares Sobrinho (sobrinhosj@zoho.com | mex.eco.br | +55 11 94856 2247)  
+**RESPONSÁVEL TÉCNICO:** José Soares Sobrinho | mex.eco.br
 **DATA:** 12 de Agosto de 2024  
 **VERSÃO:** 1.0.3 - "Solução do Trilema"  
 
