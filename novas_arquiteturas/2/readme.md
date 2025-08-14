@@ -1,11 +1,11 @@
----
+
 
 ### 🔍 **Pergunta Refinada (para resposta acertiva):**
 
 
 **"Por que o Banco Central do Brasil anunciou que o DREX não usará mais DLT (blockchain), enquanto o PIX funciona perfeitamente com uma arquitetura distribuída centralizada? Como o PIX escala sem DLT, e por que o DREX — sendo uma CBDC — não pode usar a mesma abordagem? Além disso, como posso simular um Banco Central completo (com todos os componentes do ecossistema) para testar os gargalos de privacidade, programabilidade, descentralização e performance (quadrilema)? Existe um MCP (Multi-Agent System) integrado ao GitHub do DREX e do PIX que permita essa simulação em Edge Swarm?"**
 
----
+
 
 ## ✅ **Resposta Completa e Acertiva**
 
