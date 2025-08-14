@@ -149,7 +149,7 @@ Com o **Edge Swarm**, o Brasil pode lançar um DREX que:
 
 ---
 
-Se quiser, posso te ajudar a montar esse ambiente:  
+Ambiente:  
 - Estrutura de pastas  
 - Código HVM de exemplo  
 - Simulador de MCP com LangChain  
